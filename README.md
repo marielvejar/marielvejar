@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hello Stranger, what are you doing?
+---
+🔰 Entry-lever Developer, just fresh out of college!
 
+ - 💬 My languages are English and Spanish.
+ - 🌱 I’m currently learning Python, Ruby, Javascript...
+ - 🌸 My hobbies are drawing and reading fanfictions.
+ 
+ * IDE:
+ Visual Studio Code
+ 
+  -- Profile Under Construction --
 <!--
 **marielvejar/marielvejar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
