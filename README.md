@@ -1,7 +1,6 @@
 ### Hello Stranger, what are you doing?
 ---
-🔰 Entry-lever Developer, just fresh out of college!
-
+🔰 Full Stack Developer in training.
  - 💬 My languages are English and Spanish.
  - 🌱 I’m currently learning Python, Ruby, Javascript...
  - 🌸 My hobbies are drawing and reading fanfictions.
